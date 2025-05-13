@@ -1,0 +1,36 @@
+## Derleme klasörleri
+bin/
+obj/
+.vs/
+
+## Kullanıcı ve IDE ayarları
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Paketler
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+
+## Web yayınlama ayarları
+*.Publish.xml
+
+## Loglar
+*.log
+
+## Yerel veritabanları
+*.mdf
+*.ldf
+
+## Resharper
+_ReSharper*/
+*.ReSharper
+*.DotSettings.user
+
+## Rider
+.idea/
+
+## Son satır: boşluk bırakmadan!
